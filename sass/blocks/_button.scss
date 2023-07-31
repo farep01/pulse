@@ -22,8 +22,13 @@
         @media (max-width: 800px) {
             width: auto;
             font-size: 13px;
-            padding: 0 17px 0 17px;
+            padding: 0 18px;
         }
+    }
+    &_mini {
+        width: 131px;
+        height: 40px;
+        font-size: 14px;
     }
 }
 
